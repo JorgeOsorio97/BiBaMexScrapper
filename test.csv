@@ -1,0 +1,97 @@
+,nombre,valor,id
+0,202008,[Periodos].[Periodo (Clave)].&[202008],chk_202008
+1,201908,[Periodos].[Periodo (Clave)].&[201908],chk_201908
+2,201808,[Periodos].[Periodo (Clave)].&[201808],chk_201808
+3,201708,[Periodos].[Periodo (Clave)].&[201708],chk_201708
+4,201608,[Periodos].[Periodo (Clave)].&[201608],chk_201608
+5,202007,[Periodos].[Periodo (Clave)].&[202007],chk_202007
+6,201907,[Periodos].[Periodo (Clave)].&[201907],chk_201907
+7,201807,[Periodos].[Periodo (Clave)].&[201807],chk_201807
+8,201707,[Periodos].[Periodo (Clave)].&[201707],chk_201707
+9,201607,[Periodos].[Periodo (Clave)].&[201607],chk_201607
+10,202006,[Periodos].[Periodo (Clave)].&[202006],chk_202006
+11,201906,[Periodos].[Periodo (Clave)].&[201906],chk_201906
+12,201806,[Periodos].[Periodo (Clave)].&[201806],chk_201806
+13,201706,[Periodos].[Periodo (Clave)].&[201706],chk_201706
+14,201606,[Periodos].[Periodo (Clave)].&[201606],chk_201606
+15,202005,[Periodos].[Periodo (Clave)].&[202005],chk_202005
+16,201905,[Periodos].[Periodo (Clave)].&[201905],chk_201905
+17,201805,[Periodos].[Periodo (Clave)].&[201805],chk_201805
+18,201705,[Periodos].[Periodo (Clave)].&[201705],chk_201705
+19,202004,[Periodos].[Periodo (Clave)].&[202004],chk_202004
+20,201904,[Periodos].[Periodo (Clave)].&[201904],chk_201904
+21,201804,[Periodos].[Periodo (Clave)].&[201804],chk_201804
+22,201704,[Periodos].[Periodo (Clave)].&[201704],chk_201704
+23,202003,[Periodos].[Periodo (Clave)].&[202003],chk_202003
+24,201903,[Periodos].[Periodo (Clave)].&[201903],chk_201903
+25,201803,[Periodos].[Periodo (Clave)].&[201803],chk_201803
+26,201703,[Periodos].[Periodo (Clave)].&[201703],chk_201703
+27,202002,[Periodos].[Periodo (Clave)].&[202002],chk_202002
+28,201902,[Periodos].[Periodo (Clave)].&[201902],chk_201902
+29,201802,[Periodos].[Periodo (Clave)].&[201802],chk_201802
+30,201702,[Periodos].[Periodo (Clave)].&[201702],chk_201702
+31,202001,[Periodos].[Periodo (Clave)].&[202001],chk_202001
+32,201901,[Periodos].[Periodo (Clave)].&[201901],chk_201901
+33,201801,[Periodos].[Periodo (Clave)].&[201801],chk_201801
+34,201701,[Periodos].[Periodo (Clave)].&[201701],chk_201701
+35,201912,[Periodos].[Periodo (Clave)].&[201912],chk_201912
+36,201812,[Periodos].[Periodo (Clave)].&[201812],chk_201812
+37,201712,[Periodos].[Periodo (Clave)].&[201712],chk_201712
+38,201612,[Periodos].[Periodo (Clave)].&[201612],chk_201612
+39,201911,[Periodos].[Periodo (Clave)].&[201911],chk_201911
+40,201811,[Periodos].[Periodo (Clave)].&[201811],chk_201811
+41,201711,[Periodos].[Periodo (Clave)].&[201711],chk_201711
+42,201611,[Periodos].[Periodo (Clave)].&[201611],chk_201611
+43,201910,[Periodos].[Periodo (Clave)].&[201910],chk_201910
+44,201810,[Periodos].[Periodo (Clave)].&[201810],chk_201810
+45,201710,[Periodos].[Periodo (Clave)].&[201710],chk_201710
+46,201610,[Periodos].[Periodo (Clave)].&[201610],chk_201610
+47,201909,[Periodos].[Periodo (Clave)].&[201909],chk_201909
+48,201809,[Periodos].[Periodo (Clave)].&[201809],chk_201809
+49,201709,[Periodos].[Periodo (Clave)].&[201709],chk_201709
+50,201609,[Periodos].[Periodo (Clave)].&[201609],chk_201609
+51,ABC Capital,[Instituciones].[Institución].&[ABC Capital],chk______ABC_Capital
+52,BanCoppel,[Instituciones].[Institución].&[BanCoppel],chk______BanCoppel
+53,Finterra,[Instituciones].[Institución].&[Finterra],chk______Finterra
+54,Santander,[Instituciones].[Institución].&[Santander],chk______Santander
+55,Actinver,[Instituciones].[Institución].&[Actinver],chk______Actinver
+56,Bank of America,[Instituciones].[Institución].&[Bank of America],chk______Bank_of_America
+57,HSBC,[Instituciones].[Institución].&[HSBC],chk______HSBC
+58,Scotiabank,[Instituciones].[Institución].&[Scotiabank],chk______Scotiabank
+59,Afirme,[Instituciones].[Institución].&[Afirme],chk______Afirme
+60,Bank of China,[Instituciones].[Institución].&[Bank of China],chk______Bank_of_China
+61,ICBC,[Instituciones].[Institución].&[ICBC],chk______ICBC
+62,Ve por Más,[Instituciones].[Institución].&[Ve por Más],chk______Ve_por_Más
+63,Autofin,[Instituciones].[Institución].&[Autofin],chk______Autofin
+64,Bankaool,[Instituciones].[Institución].&[Bankaool],chk______Bankaool
+65,Inbursa,[Instituciones].[Institución].&[Inbursa],chk______Inbursa
+66,Accendo Banco,[Instituciones].[Institución].&[Accendo Banco],chk_Accendo_Banco
+67,Banamex,[Instituciones].[Institución].&[Banamex],chk______Banamex
+68,Banorte,[Instituciones].[Institución].&[Banorte],chk______Banorte
+69,Inmobiliario Mexicano,[Instituciones].[Institución].&[Inmobiliario Mexicano],chk______Inmobiliario_Mexicano
+70,American Express,[Instituciones].[Institución].&[American Express],chk_American_Express
+71,Banca Mifel,[Instituciones].[Institución].&[Banca Mifel],chk______Banca_Mifel
+72,Banregio,[Instituciones].[Institución].&[Banregio],chk______Banregio
+73,Interacciones,[Instituciones].[Institución].&[Interacciones],chk______Interacciones
+74,Mizuho Bank,[Instituciones].[Institución].&[Mizuho Bank],chk_Mizuho_Bank
+75,Banco Ahorro Famsa,[Instituciones].[Institución].&[Banco Ahorro Famsa],chk______Banco_Ahorro_Famsa
+76,Bansí,[Instituciones].[Institución].&[Bansí],chk______Bansí
+77,Intercam Banco,[Instituciones].[Institución].&[Intercam Banco],chk______Intercam_Banco
+78,MUFG Bank,[Instituciones].[Institución].&[MUFG Bank],chk_MUFG_Bank
+79,Banco Azteca,[Instituciones].[Institución].&[Banco Azteca],chk______Banco_Azteca
+80,BBVA Bancomer,[Instituciones].[Institución].&[BBVA Bancomer],chk______BBVA_Bancomer
+81,Invex,[Instituciones].[Institución].&[Invex],chk______Invex
+82,Shinhan,[Instituciones].[Institución].&[Shinhan],chk_Shinhan
+83,Banco Bancrea,[Instituciones].[Institución].&[Bancrea],chk______Banco_Bancrea
+84,BIAfirme,[Instituciones].[Institución].&[BIAfirme],chk______BIAfirme
+85,J.P. Morgan,[Instituciones].[Institución].&[J.P. Morgan],chk______J.P._Morgan
+86,Total Banca Múltiple,[Instituciones].[Institución].&[Total Banca Múltiple],chk_Total_Banca_Múltiple
+87,Banco Base,[Instituciones].[Institución].&[Banco Base],chk______Banco_Base
+88,CIBanco,[Instituciones].[Institución].&[CIBanco],chk______CIBanco
+89,KEB Hana Bank,[Instituciones].[Institución].&[KEB Hana Bank],chk______KEB_Hana_Bank
+90,Banco del Bajío,[Instituciones].[Institución].&[Banco del Bajío],chk______Banco_del_Bajío
+91,Consubanco,[Instituciones].[Institución].&[Consubanco],chk______Consubanco
+92,Monex,[Instituciones].[Institución].&[Monex],chk______Monex
+93,Banco Sabadell,[Instituciones].[Institución].&[Sabadell],chk______Banco_Sabadell
+94,Dondé Banco,[Instituciones].[Institución].&[Dondé Banco],chk______Dondé_Banco
+95,Multiva,[Instituciones].[Institución].&[Multiva],chk______Multiva
